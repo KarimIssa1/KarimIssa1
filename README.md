@@ -7,6 +7,8 @@ in 2024.
 
 📫 How to reach me: karim_issa1@outlook.com
 
+👨‍💻 All of my projects and future ones are available at: https://troopl.com/karimissa
+
 📄 Know about my experiences: https://www.linkedin.com/in/karim-issa-423798249/
 
 ## 🧰 Languages and Tools:
