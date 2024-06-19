@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Lebanese/Canadian full-stack developer focusing on being a Front-End developer. I studied at Le Wagon
+I'm a Lebanese/Canadian full-stack web developer focusing on being a Front-End developer. I studied at Le Wagon
 in 2024.
 
 🔭 I'm currently working on ShopWise my first phone app idea! Check it out on: https://github.com/chrononaut76/rails-shopwise
